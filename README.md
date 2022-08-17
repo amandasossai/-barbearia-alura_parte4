@@ -1,2 +1,7 @@
-# -barbearia-alura_parte4
-Projeto construído durante o Curso HTML5 e CSS3 parte 4: avançando no CSS.
+Este curso abordou os seguintes tópicos: 
+Adaptando a página inicial; 
+Conteúdo externo; 
+Melhorando o CSS; 
+Selecionando qualquer coisa; 
+Opacidade e sombra; 
+Design responsivo.
